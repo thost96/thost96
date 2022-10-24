@@ -9,7 +9,7 @@
   <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="docker" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="git" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/grafana.svg" alt="grafana" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="html5" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="html5" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="javascript" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/linux-tux-1.svg" alt="linux" width="40" height="40"/>  
   <img src="https://cdn.worldvectorlogo.com/logos/nginx-1.svg" alt="nginx" width="40" height="40"/> 
